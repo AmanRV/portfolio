@@ -1,3 +1,3 @@
 # portfolio
-### My p5.js beginner portfolio using a template. 
+### My portfolio, featuring some p5.js projects.
 Template: https://codepen.io/misterdeegee/pen/JjNONNR
